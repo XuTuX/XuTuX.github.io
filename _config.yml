@@ -21,7 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : neoreo
-description: >  "네오레오는 모바일 보드게임 전문 기업으로, 당신의 시간을 재미있게 만들어줍니다."
+description: >  네오레오는 모바일 보드게임 전문 기업으로, 당신의 시간을 재미있게 만들어줍니다.
   Your Site Description
 
 
